@@ -1,4 +1,4 @@
-# Homework Week 1, Day 2
+# Homework Week 1, Day 3
 
 # Full name greeting
 print("First name, please:")
